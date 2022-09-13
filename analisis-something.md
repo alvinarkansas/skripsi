@@ -1,6 +1,6 @@
 BAB 1
 
-Ini bab 1
+Ini bab 1 ya
 
 BAB 2
 
