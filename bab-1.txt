@@ -1,4 +1,3 @@
 judul (revisi)
 
-deskripsi lorem ipsum x
-more description
+deskripsi lorem ipsum
